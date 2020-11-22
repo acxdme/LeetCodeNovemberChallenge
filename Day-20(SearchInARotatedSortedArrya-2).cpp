@@ -1,7 +1,7 @@
 /*
-Time complexity :
-Space complexity :
-My approach :
+Time complexity : O(logn)
+Space complexity : O(1)
+My approach : Binary search
 */
 
 class Solution {
